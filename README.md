@@ -20,5 +20,5 @@ To check, install poppler-utils https://pypi.org/project/poppler-utils/ and use 
 
 ## Preview
 
-<img align="center" src="example/resme.jpg" height="1000px"/>
+<img align="center" src="example/resume.jpg" height="1000px"/>
 
