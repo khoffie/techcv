@@ -1,0 +1,7 @@
+.DS_Store
+
+.auctex-auto
+# tech helpers
+resume.aux
+resume.log
+resume.out
