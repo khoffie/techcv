@@ -1,23 +1,19 @@
-# techResume - Resume for Software Engineers 👨🏻‍💻
+# techcv - Resume for Software Engineers 👨🏻‍💻
+An easily parsable, single-page, one-column CV template for LaTeX. For
+tech job applications
 
-This template is a highly customized version of [AltaCV](https://github.com/liantze/AltaCV).
+This template is a fork of this
+https://github.com/alexcalabrese/techResume template. The latex code
+is somewhat simpler and I added an aboutme, and a skills section.
 
 - ATS friendly;
 - Single page;
 - One column.
 
-<h4>Please help this repo with a :star: if you find it useful!</h4>
-
 ## Import project to Overleaf
-
 You can download the project in .zip format by clicking [here](https://github.com/alexcalabrese/techResume/archive/main.zip).
 
 Then on **Overleaf** click on "**New Project**", click on "**Upload Project**" and upload the downloaded zip.
 
-## Contributing
-
-Thank you for considering contributing! ❤
-
-## Preview
-
-<img align="center" src="example/techResume.jpg" height="1000px"/>
+## Is it really ATS friendly?
+To check, install poppler-utils https://pypi.org/project/poppler-utils/ and use pdftotext resume.pdf resme.txt.
