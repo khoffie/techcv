@@ -20,4 +20,5 @@ To check, install poppler-utils https://pypi.org/project/poppler-utils/ and use 
 
 ## Preview
 
-![Rendered Example](resume.pdf)
+<img align="center" src="example/resme.jpg" height="1000px"/>
+
